@@ -1,3 +1,5 @@
+![Welcome](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fhey-there-gif-heythere-flirty-kingjulien-discover-share-gifs--521432463102616011%2F&psig=AOvVaw2CsYvqcdIIpR_brMYkuppz&ust=1710204949968000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCXzI6A64QDFQAAAAAdAAAAABAI)
+
 # Hi there! I'm Kelly.
 
 I will be displaying my understanding of the content in STATS 220 here.
