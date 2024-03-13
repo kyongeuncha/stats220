@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!;Nice+to+see+you+:))](https://git.io/typing-svg)
+
 ![Welcome](https://i.pinimg.com/originals/9a/17/62/9a17629c5ffff8e9d4b269d745346fab.gif)
 
 # Hi there! I'm Kelly.
