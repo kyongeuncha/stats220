@@ -4,22 +4,24 @@
 
 # Hi there! I'm Kelly.
 
-I will be displaying my understanding of the content in STATS 220 here.
+My legal name is ***Kyongeun***, and my preferred name is ***Kelly***!
 
-*This course is being completed during semester one of 2024*
+You can call me whatever you like :)
 
 ## The purpose of this repository
 
 I am currently taking STATS 220 at the University of Auckland.
 
-The purpose of this repo is to host and store projects for this course.
+The purpose of this repo is to store and display assignments and relevant content for this course. I will be displaying my understanding of the content in STATS 220 here.
 
-### This is a list of why I think this course will be so much fun.
+*This course is being completed during semester one of 2024*
+
+## This is a list of why I think this course will be so much fun.
 - **Memes**: I love how all the lab tasks and lectures are filled with memes!!
 - **Interactive Lectures**: The lectures have been so much fun to attend because of the interactive component to them! They are so much more engaging this way.
 - **Our Lecturer**: Anna is simply the best lecturer!!
 
-### This is an ordered list of the projects I will be completing:
+## This is an ordered list of the projects I will be completing:
 1. Project 1
 2. Project 2
 3. Project 3
